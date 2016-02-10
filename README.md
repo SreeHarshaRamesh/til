@@ -14,6 +14,7 @@ _328 TILs and counting..._
 ### Categories
 
 * [Clojure](#clojure)
+* [Deep Learning](#deep-learning)
 * [Devops](#devops)
 * [Git](#git)
 * [Go](#go)
@@ -49,6 +50,10 @@ _328 TILs and counting..._
 - [Try A Clojure Project In The REPL](clojure/try-a-clojure-project-in-the-repl.md)
 - [Type of Anything](clojure/type-of-anything.md)
 - [When Overflow Is Desired](clojure/when-overflow-is-desired.md)
+
+### Deep Learning
+
+- [Assortment](deep-learning/assortment.md)
 
 ### Devops
 
